@@ -1,4 +1,4 @@
-# Kapture
+# Kapture - Screen Recorder
 
 <p align='center'>
 <img src='./favicon.png' alt='favicon' />
