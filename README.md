@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a simple screen recorder made with a native Media Recorder element in JavaScript. This lets you Record your screen and download the video in a single click.
+This is a simple screen recorder made with a native Media Recorder element in JavaScript. This lets you record your screen and download the video in a single click.
 
 ## Usage
 
